@@ -7,6 +7,6 @@ Sometimes I'll start a sentence, and I don't even know where it's going. I just 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ignacioDias&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://nypost.com/wp-content/uploads/sites/2/2022/05/Screen-Shot-2022-05-06-at-12.00.23-PM.png" width="1264px" height="715px"/>
+<img src="https://nypost.com/wp-content/uploads/sites/2/2022/05/Screen-Shot-2022-05-06-at-12.00.23-PM.png" width="1260px" height="715px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
