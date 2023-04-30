@@ -8,6 +8,6 @@ Estudiante
 ![](https://github-contributor-stats.vercel.app/api?username=ignacioDias&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="[https://rm.up.railway.app/](https://nypost.com/wp-content/uploads/sites/2/2022/05/Screen-Shot-2022-05-06-at-12.00.23-PM.png)" width="1264px" height="715px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
