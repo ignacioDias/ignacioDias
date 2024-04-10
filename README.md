@@ -29,10 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img widht="12 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/css-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/html-original.svg" height="30" alt="html logo"  />
-  <img width="12" />
 </div>
 
 ###
