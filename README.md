@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Ignacio Dias Gundin</h1>
+<h1 align="center">Ignacio Dias Gundin</h1>
 <h3 align="center">Computer Science student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ignaciodias&label=Profile%20views&color=0e75b6&style=flat" alt="ignaciodias" /> </p>
