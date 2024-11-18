@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">CS student</p>
-
-###
-
 <h2 align="left">Technologies</h2>
 
 ###
