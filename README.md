@@ -1,8 +1,7 @@
 <h1 align="left">Ignacio Dias Gundin</h1>
 
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignacioDias&size_weight=0.5&count_weight=0.5)
-<h2 align="left">Technologies</h2>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignacioDias&layout=compact&theme=dark&langs_count=8&card_width=500)
 
 ###
 
