@@ -1,9 +1,5 @@
-<h1 align="left">Ignacio Dias Gundin</h1>
+<h1 align="left">Tecnologías</h1>
 
-###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignacioDias&layout=compact&theme=dark&langs_count=8&card_width=500)
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -24,5 +20,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignacioDias&layout=compact&theme=dark&langs_count=8&card_width=500)
 
 ###
