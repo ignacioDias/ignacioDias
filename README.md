@@ -1,6 +1,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-dias-gundin)
 [![Website](https://img.shields.io/badge/ignaciodias.dev-000000?style=flat-square&logo=firefox&logoColor=white)](https://ignaciodias.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ignaciodiasgundin@gmail.com)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
